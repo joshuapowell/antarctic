@@ -67,14 +67,12 @@ These are of course imaginary needs and are fabricate around specific tasks. The
 - Download a GeoJSON file of all research stations (excluding environmental indicators)
 - Download a CSV file of all research stations
 - Download a Shapefile of all research stations
-
 - Import a list of research station environmental indicators
 - Add a new measurement
 - Edit an existing measurement
 - Remove a measurement
 - View multiple measurements on a time series chart
 - View a table of measurements
-
 - View sources of all data on site
 
 ### Design System
